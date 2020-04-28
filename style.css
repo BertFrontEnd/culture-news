@@ -35,12 +35,14 @@ header .container .header__inner .heder__menu ul {
   font-size: 1.5rem;
   letter-spacing: 2px;
   text-transform: uppercase;
+  color: #000000;
 }
 
 header .container .header__inner .heder__menu ul li a {
   text-decoration: none;
   -webkit-transition: color 0.2s linear;
   transition: color 0.2s linear;
+  color: inherit;
 }
 
 header .container .header__inner .heder__menu ul li a:active {
@@ -313,6 +315,7 @@ footer .container .footer__inner .footer__menu ul li a {
   text-decoration: none;
   -webkit-transition: color 0.2s linear;
   transition: color 0.2s linear;
+  color: inherit;
 }
 
 footer .container .footer__inner .footer__menu ul li a:active {

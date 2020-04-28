@@ -34,11 +34,13 @@ header {
           font-size: 1.5rem;
           letter-spacing: 2px;
           text-transform: uppercase;
+          color: #000000;
 
           li {
             a {
               text-decoration: none;
               transition: color 0.2s linear;
+              color: inherit;
 
               &:active {
                 color: inherit;
@@ -279,6 +281,7 @@ footer {
             a {
               text-decoration: none;
               transition: color 0.2s linear;
+              color: inherit;
 
               &:active {
                 color: inherit;
