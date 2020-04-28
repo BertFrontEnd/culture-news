@@ -1,1 +1,1 @@
-# [Culture news: task of HTML Academy](https://BertFrontEnd.github.io/culture-news/index.html)
+# Link: [Culture news](https://BertFrontEnd.github.io/culture-news/index.html)
