@@ -1,5 +1,1 @@
-Culture news: task of HTML Academy
-
-# Culture news: task of HTML Academy
-
-- [Culture news](https://BertFrontEnd.github.io/culture-news/index.html)
+# [Culture news: task of HTML Academy](https://BertFrontEnd.github.io/culture-news/index.html)
